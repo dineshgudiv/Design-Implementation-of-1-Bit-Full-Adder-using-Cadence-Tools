@@ -1,21 +1,21 @@
-# Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
-Ex No: 04     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
 
-Aim:
+## Ex No: 04  Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
+
+## Aim:
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
 
-Tools Required:
+## Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
-S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
+## S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
 •	csh
 •	source /cadence/install/cshrc
 •	virtuoso 
-Procedure for Schematic simulation using Cadence
+## Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
 2.	Close the 2nd window
@@ -102,10 +102,5 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  
  ![WhatsApp Image 2024-11-13 at 07 14 36_acfd8797](https://github.com/user-attachments/assets/17732e7b-0aef-4d03-82f9-167c156ee477)
-
-
-
- 
-
-Results:
+## Results:
 The design and implementation of the 1-bit full adder using Cadence EDA tools were successfully completed. The simulation results verified the correct operation of the full adder, with accurate sum and carry outputs for all input combinations.
